@@ -1,5 +1,9 @@
 # Ice Games Data Analysis
 
+<h2>Summary</h2>
+
+This project contains the preprocessing, exploratory data analysis, and statistical data analysis of video games sales data in 2016 to aid in sales projection for 2017, as well as recommendations to maximize sales in 2017.
+
 <h2>Table of Contents</h2>
 
 1. Exploratory Data Analysis (notebooks > EDA.ipynb)
@@ -17,10 +21,6 @@
         i) Testing hypotheses about user ratings
         j) Project conclusion
 
-
-<h2>Summary</h2>
-
-This project contains the preprocessing, exploratory data analysis, and statistical data analysis of video games sales data in 2016 to aid in sales projection for 2017, as well as recommendations to maximize sales in 2017.
 
 <h2>Local Access</h2>
 
