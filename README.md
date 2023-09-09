@@ -7,9 +7,7 @@ This project contains the preprocessing, exploratory data analysis, and statisti
 <h2>Table of Contents</h2>
 
 1. Exploratory Data Analysis (notebooks > EDA.ipynb)
-   
-  Creating data visualizations in Jupyter Notebook
-   
+      
         a) Project introduction
         b) Library and data importation
         c) Data preprocessing - finding and removing duplicate values, filling in missing values, etc.
