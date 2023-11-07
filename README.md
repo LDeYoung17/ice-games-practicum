@@ -31,7 +31,7 @@ This project contains the preprocessing, exploratory data analysis, and statisti
 
 <h2>Plans for updates</h2>
 
-I am planning to go through and update the different section labels to be more clean and concise in the future. 
+Clarify the different section labels using HTML headers to be more clean and concise. 
 
 <h2>Sample Graph</h2>
 
