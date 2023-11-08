@@ -36,3 +36,9 @@ Clarify the different section labels using HTML headers to be more clean and con
 <h2>Sample Graph</h2>
 
 ![integrated_sample](https://github.com/LDeYoung17/ice-games-practicum/assets/70500225/6aa634df-4ab1-4744-a377-6e3fd12a6947)
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
