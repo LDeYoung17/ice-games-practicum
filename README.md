@@ -22,6 +22,15 @@ This project contains the preprocessing, exploratory data analysis, and statisti
 
 <h2>Local Access</h2>
 
+This project will require Python 3.9.13 or later.
+
+All packages required can be installed from the requirements.txt file by executing the command 'pip install -r requirements.txt'
+
+To run the Jupyter notebooks, they can be downloaded from the repository (the main branch) and run in the IDE of your choice that can accommodate.
+
+Please note that the data that was originally provided by the client and is proprietary. It is not available in this repository for that reason.
+
+
 1. Make sure you are using Python version 3.9.13 locally
 2. Clone the repository from GitHub to your local machine 
 3. Access the repository's main branch on your terminal. 
