@@ -26,17 +26,10 @@ This project will require Python 3.9.13 or later.
 
 All packages required can be installed from the requirements.txt file by executing the command 'pip install -r requirements.txt'
 
-To run the Jupyter notebooks, they can be downloaded from the repository (the main branch) and run in the IDE of your choice that can accommodate.
+To run the Jupyter notebook, it can be downloaded from the repository (the main branch) and run in the IDE of your choice that can accommodate.
 
 Please note that the data that was originally provided by the client and is proprietary. It is not available in this repository for that reason.
 
-
-1. Make sure you are using Python version 3.9.13 locally
-2. Clone the repository from GitHub to your local machine 
-3. Access the repository's main branch on your terminal. 
-4. Open Jupyter Notebook using the platform of your choice
-5. Set up a Jupyter kernel to use Python 3.9.13
-6. Select "Run All"
 
 <h2>Plans for updates</h2>
 
