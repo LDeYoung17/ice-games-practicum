@@ -39,6 +39,10 @@ Clarify the different section labels using HTML headers to be more clean and con
 
 ![integrated_sample](https://github.com/LDeYoung17/ice-games-practicum/assets/70500225/6aa634df-4ab1-4744-a377-6e3fd12a6947)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1UvYvyneYB7xOjXt_g_RDwDa5QiNKvhR_/view?usp=sharing
+
 <h2>Portfolio Link</h2>
 
 https://ldeyoung17.github.io/
